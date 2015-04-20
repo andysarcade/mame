@@ -4,7 +4,7 @@
 
     Exidy 440 hardware
 
-    driver by Aaron Giles
+    driver by Aaron Giles - Physical PCB information Andy Welburn
 
     Currently implemented:
         * Crossbow
@@ -20,7 +20,7 @@
         * Yukon
 
 
-440 System
+440 System - the same PCB is used for all games in this series, the sound board is always screened 'Crossbow'
 
 Name                 Year  CPU    board/rom numbers
 
